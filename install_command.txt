@@ -1,0 +1,5 @@
+npm install unified remark-parse remark-gfm remark-math
+npm install remark-frontmatter remark-extract-frontmatter yaml
+npm install @mapbox/rehype-prism
+npm install remark-rehype
+npm install rehype-raw rehype-katex rehype-stringify
