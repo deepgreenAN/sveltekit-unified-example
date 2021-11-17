@@ -13,7 +13,7 @@ console.log(`a=${a}`);
 途中で`console.log(a)`が入ります．
 
 ## ファイル名付きのブロック
-```javascript: a.js
+```javascript:a.js
 const a = 10;
 console.log(`a=${a}`);
 ```
